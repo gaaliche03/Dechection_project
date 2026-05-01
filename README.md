@@ -6,6 +6,7 @@ It aims to assist users in **sorting waste efficiently** by identifying objects 
 
 The system is built using the **TACO (Trash Annotations in Context) dataset**, which contains real-world images with multiple objects, complex backgrounds, and diverse conditions.
 
+<img width="586" height="639" alt="logo" src="https://github.com/user-attachments/assets/0d4477b3-6f66-4263-b281-3e683c1ac8ac" />
 
 ## Objectives
 - Detect and classify different types of waste from images  
