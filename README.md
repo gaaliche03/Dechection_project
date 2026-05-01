@@ -6,7 +6,6 @@ It aims to assist users in **sorting waste efficiently** by identifying objects 
 
 The system is built using the **TACO (Trash Annotations in Context) dataset**, which contains real-world images with multiple objects, complex backgrounds, and diverse conditions.
 
----
 
 ## Objectives
 - Detect and classify different types of waste from images  
@@ -14,7 +13,6 @@ The system is built using the **TACO (Trash Annotations in Context) dataset**, w
 - Provide **recyclability information and sorting guidance**  
 - Build an **interactive application** for end users  
 
----
 
 ## Approaches Explored
 Several methods were tested and compared:
@@ -34,7 +32,7 @@ Several methods were tested and compared:
 - Best model: **YOLOv8s (832px resolution)**  
 ✔️ Capable of real-time **multi-object detection and classification**
 
----
+
 
 ## Dataset
 - **Name:** TACO (Trash Annotations in Context)  
@@ -48,7 +46,7 @@ Several methods were tested and compared:
 ### Download 
 - The dataset used in this project can be downloaded from Kaggle:  
 https://www.kaggle.com/datasets/kneroma/tacotrashdataset/data
----
+
 
 ## Final Model Performance
 - **Model:** YOLOv8s  
@@ -60,7 +58,6 @@ https://www.kaggle.com/datasets/kneroma/tacotrashdataset/data
   - Class imbalance  
   - Limited data for some categories  
 
----
 
 ##  Features
 -  Upload image(s)  
@@ -71,7 +68,7 @@ https://www.kaggle.com/datasets/kneroma/tacotrashdataset/data
 -  Confidence score visualization  
 -  Session history & statistics  
 
----
+
 
 ## Application
 Built with **Streamlit**, the app includes:
@@ -91,7 +88,6 @@ Built with **Streamlit**, the app includes:
 - Recycling ratio  
 - Export results (CSV)
 
----
 
 ## Impact
 This project highlights how **AI can support environmental sustainability** by helping users make better recycling decisions and improving waste management practices.
